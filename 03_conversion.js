@@ -69,7 +69,7 @@ let str3 = str1 + str2
 
 // console.log(+true);
 // console.log(true+2);
-// console.log(+"");
+console.log(+"");
 
 let num1 , num2, num3 
 
